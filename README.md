@@ -13,11 +13,12 @@
 Dataset yang digunakan yaitu :
 
 - [Diabetes Dataset - link Kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
-- [Diabetes Dataset - link csv](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+- [Diabetes Dataset - link csv](https://github.com/AditRizkii/2108107010002_Pertemuan_11_ANN/blob/main/data/diabetes.csv)
 
 # Source Code
 
-- [ANN.ipynb](https://github.com/AditRizkii/Tugas-2-Pembelajaran-Mesin-2108107010002/blob/main/SVM_for_Classification.ipynb)
+- [ANN.ipynb](https://github.com/AditRizkii/2108107010002_Pertemuan_11_ANN/blob/main/ANN.ipynb)
+- [Contoh pada artikel menggunakan tensorflow pada python environment](https://github.com/AditRizkii/2108107010002_Pertemuan_11_ANN/blob/main/POIN_1.ipynb)
 
 # Cara Menjalankan Code
 
